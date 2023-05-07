@@ -26,8 +26,8 @@ namespace mvc_prac.Controllers
             Student student = new Student
             {
                 Id = 1,
-                Name = "xyz",
-                Gender = "female",
+                Name = "purnay",
+                Gender = "male",
             };
             return View(student);
         }
